@@ -1,7 +1,7 @@
 # bookshelf
 
 
-Bookshelf is a full stack application created as part of an MSc Computer Science course, I am unable to share code directly due to university policy. I have included here a description of the application and the tools and techniques used to create it, along with screenshots displaying the core functionality in action.
+Bookshelf is a full stack application created as part of an MSc Computer Science course, I am unable to share code directly due to university policy. I have included here a description of the application and the tools and techniques used to create it, along with a PDF containing screenshots displaying the core functionality in action.
 
 The application consists of a React client, a Java RESTful API and a MySQL database containing information about books. It allows users to view the data in an ordered table, browse books using pagination and query the database by title, author, genre and date. Users can view, view book details by ID, add, edit and delete books (all CRUD operations) in three different data formats: JSON, XML and Plain Text. For brevity, I have included screenshots for GET requests with payloads for all three data types demonstrating this multi data format functionality, but otherwise I am displaying requests in the default JSON format.
 
